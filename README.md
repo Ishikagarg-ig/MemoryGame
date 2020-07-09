@@ -1,4 +1,6 @@
-# memorygame
+# Memorygame
+
+Sharpen your memory by Playing this fun Memory game...
 
 A new Flutter application.
 
